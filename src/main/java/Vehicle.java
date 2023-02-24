@@ -1,5 +1,5 @@
 /*
- * You do not need to manipulate anythin in this class. 
+ * You do not need to manipulate anything in this class. 
  * Please analyze this code and answer the questions in Quiz.java
  */
 
