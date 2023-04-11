@@ -1,6 +1,6 @@
 /*
  * You do not need to manipulate anything in this class. 
- * Please analyze this code and answer the questions in Quiz.java
+ * Please analyze this code and answer the questions in Questions.java
  */
 
 public class Vehicle {
